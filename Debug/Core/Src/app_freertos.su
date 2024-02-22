@@ -1,0 +1,6 @@
+../Core/Src/app_freertos.c:122:6:vApplicationStackOverflowHook	16	static
+../Core/Src/app_freertos.c:135:6:MX_FREERTOS_Init	8	static
+../Core/Src/app_freertos.c:174:6:StartDefaultTask	16	static
+../Core/Src/app_freertos.c:194:6:StartEchoTask	48	static
+../Core/Src/app_freertos.c:246:6:StartTcpClientTask	64	static
+../Core/Src/app_freertos.c:340:6:vApplicationGetIdleTaskMemory	24	static

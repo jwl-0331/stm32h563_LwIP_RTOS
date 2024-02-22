@@ -1,0 +1,8 @@
+../Core/Src/tcp_echo.c:23:7:app_echoserver_init	16	static
+../Core/Src/tcp_echo.c:50:14:app_callback_accepted	32	static
+../Core/Src/tcp_echo.c:83:14:app_callback_received	40	static
+../Core/Src/tcp_echo.c:158:13:app_callback_error	24	static
+../Core/Src/tcp_echo.c:177:14:app_callback_poll	24	static
+../Core/Src/tcp_echo.c:209:14:app_callback_sent	32	static
+../Core/Src/tcp_echo.c:239:13:app_send_data	32	static
+../Core/Src/tcp_echo.c:280:13:app_close_connection	16	static
